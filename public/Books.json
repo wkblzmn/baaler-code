@@ -1,0 +1,80 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://i.ibb.co/hdgpr7y/The-Great-Gatsby.jpg",
+    "review": "A classic tale of love, longing, and the American Dream.",
+    "totalPages": 180,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": ["Romance", "Drama", "Classic"],
+    "publisher": "Scribner",
+    "yearOfPublishing": 1925
+  },
+  {
+    "bookId": 2,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://i.ibb.co/VxN5YM3/To-Kill-a-Mockingbird.jpg",
+    "review": "A powerful story tackling racial injustice in the American South.",
+    "totalPages": 281,
+    "rating": 4.7,
+    "category": "Fiction",
+    "tags": ["Drama", "Social Justice", "Coming-of-age"],
+    "publisher": "J. B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  },
+  {
+    "bookId": 3,
+    "bookName": "1984",
+    "author": "George Orwell",
+    "image": "https://i.ibb.co/58fJBww/1984.jpg",
+    "review": "A dystopian masterpiece exploring the dangers of totalitarianism.",
+    "totalPages": 328,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": ["Dystopian", "Political", "Classic"],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1949
+  },
+  {
+    "bookId": 4,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://i.ibb.co/gjvYdxt/The-Catcher-in-the-Rye.jpg",
+    "review": "A coming-of-age novel that has captivated readers for generations.",
+    "totalPages": 224,
+    "rating": 4.3,
+    "category": "Fiction",
+    "tags": ["Coming-of-age", "Teen", "Classic"],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 1951
+  },
+  {
+    "bookId": 5,
+    "bookName": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "https://i.ibb.co/5xqMdQS/The-Hobbit.jpg",
+    "review": "An enchanting tale of adventure and heroism in Middle-earth.",
+    "totalPages": 310,
+    "rating": 4.8,
+    "category": "Fantasy",
+    "tags": ["Adventure", "Epic", "Middle-earth"],
+    "publisher": "George Allen & Unwin",
+    "yearOfPublishing": 1937
+  },
+  {
+    "bookId": 6,
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://i.ibb.co/6BFWy04/Pride-and-Prejudice.jpg",
+    "review": "A timeless romance novel filled with wit, charm, and societal commentary.",
+    "totalPages": 279,
+    "rating": 4.6,
+    "category": "Romance",
+    "tags": ["Romantic", "Classic", "Social Commentary"],
+    "publisher": "T. Egerton, Whitehall",
+    "yearOfPublishing": 1813
+  }
+]
